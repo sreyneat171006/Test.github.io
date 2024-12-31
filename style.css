@@ -1,0 +1,52 @@
+*{
+    color: rgb(180, 116, 21);
+    list-style:none ;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+body{
+    background-image: url(th.jpg);
+    /* background-size: 100% 100%; */
+    background-size: cover;
+    /* cover=100%=width height */
+    /* background: linear-gradient(190deg,rgb(168, 168, 244),rgb(226, 10, 10),yellowgreen); */
+}
+.h1{
+    color: aqua !important;
+}
+.A{
+    color: blue;
+    
+}
+#B{
+    color: rgb(26, 76, 76);
+    border: 2px solid ;
+}
+.parent{
+    background-color: bisque;
+    
+    height:300px;
+    width: 400px;
+}
+.child{
+    background-color: blue;
+    height:100% ;
+    width: 80%;
+    
+}
+.a{
+    background-color: blueviolet;
+    height: 100%;
+    width: 75%;
+}
+.b{
+    background-color: brown;
+    height: 100%;
+    width: 70%;
+}
+.c{
+    background-color:yellowgreen;
+    height: 100%;
+    width: 55%;
+}

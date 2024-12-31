@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(250deg,rgb(13, 237, 207),rgb(10, 239, 140));
+}
+.fa-regular fa-circle-user{
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-color: aliceblue;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+

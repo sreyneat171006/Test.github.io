@@ -1,0 +1,19 @@
+.container{
+    padding: 20px;
+    border-radius: 20px;
+    background: #070120;
+    width: 500px;
+    column-gap: 100px;
+    
+    
+}
+h1{
+    background-color: aqua;
+    background: linear-gradient(90deg,green 30%,white 85%);
+    color: transparent;
+    background-clip: text;
+
+}
+p{
+    color: white;
+}
